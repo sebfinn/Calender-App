@@ -23,8 +23,7 @@ class ViewController: UIViewController {
     func Solved() {
         
     }
-    
-    
-
+    func print(_: String) {
+    print("yee")
+ }
 }
-
