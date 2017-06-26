@@ -96,7 +96,7 @@
 				TargetAttributes = {
 					CF9CE15C1EFDCF1400CD9455 = {
 						CreatedOnToolsVersion = 8.3.2;
-						DevelopmentTeam = 69RY2JHLT6;
+						DevelopmentTeam = 6588F6G5LW;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -263,10 +263,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 69RY2JHLT6;
+				DEVELOPMENT_TEAM = 6588F6G5LW;
 				INFOPLIST_FILE = "Calender App/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "Finn.Calender-App";
+				PRODUCT_BUNDLE_IDENTIFIER = "gordon.Calender-App";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -276,10 +276,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 69RY2JHLT6;
+				DEVELOPMENT_TEAM = 6588F6G5LW;
 				INFOPLIST_FILE = "Calender App/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "Finn.Calender-App";
+				PRODUCT_BUNDLE_IDENTIFIER = "gordon.Calender-App";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -304,6 +304,7 @@
 				CF9CE1711EFDCF1400CD9455 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
